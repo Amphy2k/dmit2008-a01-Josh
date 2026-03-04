@@ -33,10 +33,10 @@ export default function Home() {
             </code>
             .
           </li>
-          <li className="tracking-[-.01em]">
+          <li className="tracking-[-.01em] mb-2">
             Save and see your changes instantly.
           </li>
-          <li>
+          <li className="tracking-[-.01em]" >
             Add whatever you want!
           </li>
         </ol>
